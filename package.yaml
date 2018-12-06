@@ -24,6 +24,8 @@ dependencies:
 - trifecta
 - parsers
 - containers
+- time
+- text
 
 library:
   source-dirs: src

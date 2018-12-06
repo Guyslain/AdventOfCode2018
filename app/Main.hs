@@ -7,6 +7,7 @@ import qualified Day1part2
 import qualified Day2part1
 import qualified Day2part2
 import qualified Day3
+import qualified Day4
 
 chooseProcess :: String -> String -> String
 chooseProcess arg =
@@ -17,6 +18,7 @@ chooseProcess arg =
     "day2part2" -> Day2part2.process
     "day3part1" -> Day3.processPart1
     "day3part2" -> Day3.processPart2
+    "day4part1" -> Day4.processPart1
     
 main :: IO ()
 main = do
