@@ -29,7 +29,7 @@ library:
   source-dirs: src
 
 executables:
-  AdventOfCode2018-exe:
+  advent:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
