@@ -28,6 +28,8 @@ dependencies:
 - text
 - array
 - heap
+- mtl
+- pqueue
 
 library:
   source-dirs: src
